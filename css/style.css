@@ -89,7 +89,7 @@ Main Components
   background-size: cover;
 }
 [data-animation="parallax"] .cd-section:first-of-type > div, [data-animation="fixed"] .cd-section:first-of-type > div, [data-animation="opacity"] .cd-section:first-of-type > div {
-  background-image: url("../img/img-1.jpg");
+  background-image: url("https://cdn.rawgit.com/VangData/svg/master/17.11_ConsumoDrogas.svg");
 }
 [data-animation="parallax"] .cd-section:nth-of-type(2) > div, [data-animation="fixed"] .cd-section:nth-of-type(2) > div, [data-animation="opacity"] .cd-section:nth-of-type(2) > div {
   background-image: url("../img/img-2.jpg");
